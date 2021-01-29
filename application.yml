@@ -1,6 +1,0 @@
-spring:
-  application:
-    name:EmployeCloud
-    
-server:
-  port:8050
